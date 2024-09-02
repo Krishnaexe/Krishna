@@ -38,7 +38,7 @@ module.exports = {
             .setAuthor({
               name: 'Support Server',
               iconURL: 'https://cdn.discordapp.com/icons/1111292161426722838/4bf2bf62313a7e3d2c86dd21a2da9dba.webp?size=2048', 
-              url: 'https://discord.gg/xQF9f9yUEM'
+              url: 'https://discord.com/invite/8b34JUUbnE'
           })
             .setDescription(`➡️ **Join our Discord server for support and updates:**\n- Discord - ${supportServerLink}\n\n➡️ **Follow us on:**\n- GitHub - ${githubLink}\n- Replit - ${replitLink}\n- YouTube - ${youtubeLink}`)
             .setImage('https://cdn.discordapp.com/icons/1111292161426722838/4bf2bf62313a7e3d2c86dd21a2da9dba.webp?size=2048')
